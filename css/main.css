@@ -125,7 +125,7 @@ div span {
 .subscribe h2,
 .subscribe p,
 .footer p {
-  color: var(--bg);
+  color: var(--light);
 }
 /* Jolly Roger animation */
 @keyframes float {
@@ -142,7 +142,7 @@ div span {
   }
 }
 .credit-vs {
-  color: var(--primary);
+  color: var(--secondary);
 }
 .jolly-roger {
   animation: float 3s ease-in-out infinite;
