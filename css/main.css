@@ -141,7 +141,9 @@ div span {
     transform: translateY(0px);
   }
 }
-
+.credit-vs {
+  color: #d32f2f !important;
+}
 .jolly-roger {
   animation: float 3s ease-in-out infinite;
 }
