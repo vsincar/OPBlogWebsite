@@ -144,6 +144,9 @@ div span {
 .credit-vs {
   color: var(--secondary);
 }
+#about a:hover {
+  color: var(--primary);
+}
 .jolly-roger {
   animation: float 3s ease-in-out infinite;
 }
