@@ -2,7 +2,7 @@
 .theme-strawhat {
   --primary: #d72323;
   --secondary: #f5a623;
-  --accent: #3a0ca3;
+  --accent: #f5a623;
   --text: #2d3748;
   --bg: #f7fafc;
 }
@@ -10,7 +10,7 @@
 .theme-marine {
   --primary: #1e3a8a;
   --secondary: #3b82f6;
-  --accent: #dc2626;
+  --accent: #3b82f6;
   --text: #1f2937;
   --bg: #eff6ff;
 }
@@ -18,7 +18,7 @@
 .theme-pirate {
   --primary: #6b21a8;
   --secondary: #f700ff;
-  --accent: #020202;
+  --accent: #f700ff;
   --text: #1f2937;
   --bg: #faf5ff;
 }
@@ -26,7 +26,7 @@
 .theme-wano {
   --primary: #b45309;
   --secondary: #f97316;
-  --accent: #991b1b;
+  --accent: #f97316;
   --text: #1f2937;
   --bg: #fffbeb;
 }
