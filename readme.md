@@ -2,7 +2,8 @@
 
 ![Website Banner](assets/img/screenshot.png)
 
-## 🌊 Overview
+> [!NOTE]  
+> This is just the web UI and does not include the backend.
 
 A dynamic fan blog dedicated to Eiichiro Oda's _One Piece_, featuring:
 
